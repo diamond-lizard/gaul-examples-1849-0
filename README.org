@@ -1,3 +1,5 @@
+This is a mirror of [[http://gaul.sourceforge.net/index.php][GAUL]] Examples version [[http://prdownloads.sourceforge.net/gaul/gaul-examples-0.1849-0.tar.bz2?download][1849-0]]
+
 GAUL: The Genetic Algorithm Utility Library
 ===========================================
 Copyright © 2000-2004 "Stewart A. Adcock" <stewart@linux-domain.com>
